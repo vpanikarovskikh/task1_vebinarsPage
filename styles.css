@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+#findInput {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+#aboutVideo {
+    display: block;
+    margin: 50px auto;
+    height: 50px;
+}
+#aboutVideo p {
+    text-align: center;
+}
+#reviews {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+#revButton {
+    margin: 10px;
+}
+#reviewsList {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+#reviewsList h2 {
+    text-align: left;
+}
+#reviewsList div {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding-inline: 20px;
+}
+#revName {
+    text-align: left;
+    margin-left: 10px;
+}
+#review {
+    text-align: left;
+    margin-left: 10px;
+}
+.vebinarCard {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    height: 100px;
+}
+.vebinarCard .vebinarCardName {
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    top: -120px;
+    left: 190px;
+}
+.vebinarCard .vebinarCardDescription {
+    font-size: 11px;
+    font-weight: bold;
+    position: relative;
+    top: -135px;
+    left: 190px;
+    width: 140px;
+}
+.vebinarCard .vebinarCardPopular {
+    position: relative;
+    top: -142px;
+    left: 190px;
+    width: 70px;
+    height: 17px;
+    background-color: #F9D73F;
+}
+.vebinarCard .vebinarCardPopular p {
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 2px;
+}
